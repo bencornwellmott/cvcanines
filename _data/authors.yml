@@ -4,21 +4,23 @@ bencornwellmott:
   location: Comox, BC, Canada
   url_full: https://comoxvalleycanines.ca
   url: comoxvalleycanines.ca
+  email: bencornwellmott@gmail.com
   bio: Dog Guardian
-  assets: assets/images/ben.png
+  assets: assets/images/ben.jpg
 carolinewrobel:
   username: carolinewrobel
   name: Caroline Wrobel
   location: Comox, BC, Canada
   url_full: https://comoxvalleycanines.ca
   url: comoxvalleycanines.ca
+  email: cwrobel8@gmail.com
   bio: Dog Guardian
-  assets: assets/images/caroline.png
+  assets: assets/images/caroline.jpg
 daxwrobott:
   username: daxwrobott
-  name: CDax Wrobott
+  name: Dax Wrobott
   location: Comox, BC, Canada
   url_full: https://comoxvalleycanines.ca
   url: comoxvalleycanines.ca
-  bio: 50% Karelian Bear Dog, 25% German Shepard, 25% Blue Heeler mix. 100% fun
-  assets: assets/images/dax.png
+  bio: 100% Dog
+  assets: assets/images/dax.jpg

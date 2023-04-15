@@ -1,10 +1,10 @@
 # Site settings
 title: Comox Valley Canines
 description: Comox Valley Canines is a community-led advocacy organization committed to providing education and information for dog guardians and pushing local governments for more dog-friendly spaces.
-cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
-favicon: assets/images/favicon.png
-baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+cover: /assets/images/cover.jpg
+logo: /assets/images/logo_title.png
+favicon: /assets/images/favicon.png
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://comoxvalleycanines.ca" # the base hostname & protocol for your site
 
 pagination:
@@ -20,14 +20,13 @@ pagination:
 # Social
 facebook: facebook
 twitter: twitter
-github:  github
 
 #Additional Pages
 dog-awareness: dog-awareness
 initiatives: initiatives
 local-spots: local-spots
-about: about
-contact: contact
+about-us: about-us
+contacts: contacts
 faq: faq
 
 
@@ -41,7 +40,7 @@ analytics_id: ""
 markdown: kramdown
 
 kramdown:
-  parse_block_html: true
+  parse_block_html: false
 
 plugins:
   - jekyll-paginate-v2
@@ -54,7 +53,7 @@ username: bencornwellmott #github username
 repo: cvcanines #github repository
 branch: master #branch
 relative_source: ../cvcanines/ #source directory
-destination: ../cvcanines-pages/ #destination directory
+destination: ./_site/ #destination directory
 production_url:  https://comoxvalleycanines.ca/
 source_url:  https://github.com/bencornwellmott/cvcanines #source repository url
 

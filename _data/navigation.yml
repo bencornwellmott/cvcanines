@@ -1,20 +1,21 @@
 - title: Home
-  url: 
+  url: /
 
-- title: Dog Awareness  
-  url: dog-awareness
+- title: Education 
+  url: /dog-awareness
   
 - title: Initiatives
-  url: initiatives
+  url: /initiatives
   
-- title: Local Spots
-  url: local-spots
+- title: Local Digs
+  url: /local-spots
   
-- title: About
-  url: about
+- title: Myth Busting
+  url: /faq
   
-- title: Contact
-  url: contact
+- title: About Us
+  url: /about-us
+  
+- title: Contacts
+  url: /contacts
 
-- title: FAQ
-  url: faq
