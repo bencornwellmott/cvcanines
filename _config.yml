@@ -1,11 +1,11 @@
 # Site settings
 title: Comox Valley Canines
 description: Comox Valley Canines is a community-led advocacy organization committed to providing education and information for dog guardians and pushing local governments for more dog-friendly spaces.
-cover: /assets/images/cover.jpg
-logo: /assets/images/logo_title.png
-favicon: /assets/images/favicon.png
+cover: assets/images/cover.jpg
+logo: assets/images/logo_title.png
+favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://comoxvalleycanines.ca" # the base hostname & protocol for your site
+url: "https://guileless-biscotti-9ad16e.netlify.app/" # the base hostname & protocol for your site
 
 pagination:
 
@@ -54,7 +54,7 @@ repo: cvcanines #github repository
 branch: master #branch
 relative_source: ../cvcanines/ #source directory
 destination: ./_site/ #destination directory
-production_url:  https://comoxvalleycanines.ca/
+production_url:  https://guileless-biscotti-9ad16e.netlify.app/
 source_url:  https://github.com/bencornwellmott/cvcanines #source repository url
 
 exclude:
