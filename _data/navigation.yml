@@ -1,5 +1,20 @@
 - title: Home
   url: 
 
+- title: Dog Awareness  
+  url: dog-awareness
+  
+- title: Initiatives
+  url: initiatives
+  
+- title: Local Spots
+  url: local-spots
+  
 - title: About
   url: about
+  
+- title: Contact
+  url: contact
+
+- title: FAQ
+  url: faq
