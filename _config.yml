@@ -1,11 +1,11 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: Comox Valley Canines
+description: Comox Valley Canines is a community-led advocacy organization committed to providing education and information for dog guardians and pushing local governments for more dog-friendly spaces.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
+url: "https://comoxvalleycanines.ca" # the base hostname & protocol for your site
 
 pagination:
 
@@ -23,9 +23,12 @@ twitter: twitter
 github:  github
 
 #Additional Pages
+dog-awareness: dog-awareness
+initiatives: initiatives
+local-spots: local-spots
 about: about
 contact: contact
-privacy-policy: privacy-policy
+faq: faq
 
 
 permalink: /:title
@@ -47,13 +50,13 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
-repo: hanuman #github repository
+username: bencornwellmott #github username
+repo: cvcanines #github repository
 branch: master #branch
-relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
-production_url:  https://samanyougarg.com/
-source_url:  https://github.com/samanyougarg/hanuman #source repository url
+relative_source: ../cvcanines/ #source directory
+destination: ../cvcanines-pages/ #destination directory
+production_url:  https://comoxvalleycanines.ca/
+source_url:  https://github.com/bencornwellmott/cvcanines #source repository url
 
 exclude:
   - README.md
